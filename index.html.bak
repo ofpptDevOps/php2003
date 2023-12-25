@@ -1,10 +1,12 @@
 <html>
 <head>
-
+<link href="c1.css" rel="stylesheet" media=all type='text/css'/>
 </head>
 <body>
 
-
+<p class="t1"> accueil</p>
+<p class="t1"> Inscription</p>
+<p class="t1"> Contactez-nous</p>
 
 </body>
 </html>
