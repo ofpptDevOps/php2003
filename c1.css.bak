@@ -1,0 +1,11 @@
+.t1{
+	background-color: gold;
+	height:3px;
+	padding:10px;
+	width:15%;
+	border:1px solid red;
+	border-radius:20%;
+	
+	
+}
+body{text-color:blue;}
